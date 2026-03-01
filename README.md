@@ -95,18 +95,7 @@ capital of uzbekistan?,samarkand,tashkent,bukhara,khiva,B
 - Students: `/start` then use buttons: **Active**, **Practice**, **Stats**
 - Admins: `/start` then buttons: **Add New**, **Manage**, **Reports**
 
-## Privacy notes
 
-This version intentionally avoids collecting:
-- phone numbers
-- Telegram usernames / profile names for storage
-- bulk user export endpoints
-
-Only the following are stored:
-- Telegram numeric user_id
-- student id (hemis_id)
-- full name + group (from `students.csv`)
-- timestamps (joined/last active)
 
 ## Deployment tips
 
