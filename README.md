@@ -1,4 +1,4 @@
-# School Quiz Telegram Bot
+# Quizzor Bot
 
 A Telegram bot for running multiple-choice tests for students, with admin controls for uploading tests, starting/stopping them, and exporting results.
 
